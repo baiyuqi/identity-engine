@@ -1,0 +1,36 @@
+*.DS_Store
+node_modules
+.vscode
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+*.settings
+*.classpath
+*.project
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+/.idea/
+*.iws
+*.iml
+*.ipr
+*/target/
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/bin/
+/templates/
+/visa-saas/
+auto-visa/target/
+crawler-engine/target/
+mobile-connector/target/
+sy-agent/target/
+repository/target/
