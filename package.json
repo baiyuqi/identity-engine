@@ -11,6 +11,7 @@
   "dependencies": {
     "did-jwt": "^0.2.0",
     "ethr-did-resolver": "^0.2.0",
-    "uport-did-resolver": "0.0.7"
+    "uport-did-resolver": "0.0.7",
+    "web3": "^0.20.0"
   }
 }
